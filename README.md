@@ -3,7 +3,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
-
+Git clone till min reposotery
+First npx create-react-app .
+Second npm install react-router-dom
 In the project directory, you can run:
 
 ### `npm start`
